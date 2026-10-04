@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "STTS22HTR") (type "KiCad") (uri "${KIPRJMOD}/library/footprints/STTS22HTR.pretty") (options "") (descr ""))
+)
